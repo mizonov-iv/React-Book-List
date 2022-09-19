@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "Капитал Марска",
+      "descr": "3 тома",
+      "cover": "https://img4.labirint.ru/rc/610291205d4035aefc1933385ce0ac53/363x561q80/books61/602554/cover.jpg?1506425147",
+      "id": 1663604560521
+    },
+    {
+      "title": "Наука Логики. ",
+      "descr": "Г.В.Ф Гегель",
+      "cover": "https://img4.labirint.ru/rc/376dad12665f5deb4168f4beafd76a53/363x561q80/books83/821366/cover.jpg?1631078721",
+      "id": 1663604629974
+    },
+    {
+      "title": "Ленин. Собрание сочинений.",
+      "descr": "20 томов.",
+      "cover": "https://libking.ru/uploads/posts/books/551317.jpg",
+      "id": 1663604678774
+    }
+  ]
+}
