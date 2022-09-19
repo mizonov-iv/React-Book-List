@@ -1,9 +1,13 @@
 # React-Book-List with using json-server
 For start:
 - npm i
--npm run start
+
+- npm run start
+
 - cd server
--npm i
+
+- npm i
+
 - npm run start
 
 ![image](https://user-images.githubusercontent.com/95698505/191064985-9d63647e-4704-4ebf-becc-8f7fc106bdb8.png)
